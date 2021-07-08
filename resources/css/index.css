@@ -1,16 +1,5 @@
-* {
-  font-family: Helvetica, Arial, sans-serif;
-}
-
-h1 {
-  color: SeaGreen;
-}
-
-p,
-li {
-  font-size: 18px;
-}
-
-a {
-  text-decoration: none;
+footer {
+  margin-top: auto;
+  padding: var(--spacing-2) 0;
+  text-align: center;
 }
